@@ -35,6 +35,12 @@ I like combining my technical knowledge with design to make beautiful and effici
 - 🐤 **Flappy Bird Clone** – Simple yet addictive 2D Flutter-based game  
 - ⚡ **Energy Management Portal** – Built for corporate energy tracking & reporting  
 
+Fun Facts:
+I don't like boba or sugary treats.
+Outside of coding, I enjoy drawing,travelling and novels.
+Demon Slayer is my favorite anime.
+Kind of a car enthusiast.
+
 ---
 
 
